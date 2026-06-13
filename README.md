@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 À propos de moi
+## 🚀 Moi
 
 Passionné par le développement, l'automatisation et l'infrastructure.
 
@@ -121,8 +121,8 @@ Versioning    ████████████████░░░░ Git /
 
 <div align="center">
 
-### Merci de visiter mon profil 👋
+### Check moi ça mon gars 👋
 
-⭐ N'hésite pas à explorer mes projets (et communiquer avec moi si besoin) !
+⭐ Explore, explore mes projets, t'arrêtes pas (et communiquer avec moi si besoin) !
 
 </div>
