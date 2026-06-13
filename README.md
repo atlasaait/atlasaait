@@ -5,7 +5,7 @@
 ### Backend Developer • DevOps Enthusiast • Open Source
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+Developer;FastAPI+API+Developer;Docker+%26+Kubernetes;Linux+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+Developer;FastAPI+API+Developer;Docker+%26+Kubernetes;Linux+Enthusiast;Always+Coding" />
 </p>
 
 </div>
@@ -14,7 +14,7 @@
 
 ## 🚀 À propos de moi
 
-Passionné par le développement backend, l'automatisation et l'infrastructure.
+Passionné par le développement, l'automatisation et l'infrastructure.
 
 - 🐍 Développement Python
 - ⚡ Programmation en C
